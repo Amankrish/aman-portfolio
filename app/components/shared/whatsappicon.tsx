@@ -2,7 +2,7 @@
 import { FaWhatsapp } from "react-icons/fa";
 
 
-const Icon = ()=>{
+const whatsappIcon = ()=>{
   return (
     <a 
       href="https://wa.me/919236928576" 
@@ -15,4 +15,4 @@ const Icon = ()=>{
   );
 }
 
-export default Icon
+export default whatsappIcon
